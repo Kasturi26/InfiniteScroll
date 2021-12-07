@@ -1,0 +1,10 @@
+input {
+  position: relative;
+  left: 10px;
+}
+
+label{
+  display:block;
+  position:relative;
+  padding-left: 10px;
+}
